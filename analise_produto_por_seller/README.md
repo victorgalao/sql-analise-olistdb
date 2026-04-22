@@ -87,3 +87,7 @@ order by valor_venda desc;
 - Olist E-commerce Public Dataset  
 
 ---
+
+## 📸 Exemplo de resultado
+
+![Resultado](resultado_query.png)
