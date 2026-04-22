@@ -95,8 +95,3 @@ A análise permite identificar quais categorias de produtos têm maior relevânc
 
 ## 📁 Dataset
 - Olist E-commerce Public Dataset  
-
----
-## 📸 Exemplo de resultado
-
-![Resultado](resultado_query.png)
