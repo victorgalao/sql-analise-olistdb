@@ -1,4 +1,4 @@
-# 📊 Análise da Categoria de Produto Mais Vendida por Seller
+# 📊 Análise da Categoria de Produto Mais Vendida por Categoria do Produto
 
 ## 📌 Sobre o projeto
 Este projeto tem como objetivo identificar, para cada seller, qual é a **categoria de produto mais vendida**, considerando:
