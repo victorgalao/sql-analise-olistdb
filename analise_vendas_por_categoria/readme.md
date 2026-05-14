@@ -52,16 +52,6 @@ A categoria `beleza_saude` aparece entre as líderes tanto em quantidade de vend
 
 ---
 
-## Preview do Dashboard
-
-Adicione aqui a imagem do dashboard:
-
-```
-![Dashboard](images/dashboard_preview.png)
-```
-
----
-
 ## Dataset
 
 Dataset público da Olist disponibilizado no Kaggle.
